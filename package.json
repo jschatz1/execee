@@ -1,0 +1,22 @@
+{
+  "name": "execee",
+  "version": "0.1.0",
+  "description": "An tiny niave version of execa library. Good enough for some very basic use cases.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jschatz1/execee.git"
+  },
+  "keywords": [
+    "child_process"
+  ],
+  "author": "Jacob Schatz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jschatz1/execee/issues"
+  },
+  "homepage": "https://github.com/jschatz1/execee#readme"
+}
